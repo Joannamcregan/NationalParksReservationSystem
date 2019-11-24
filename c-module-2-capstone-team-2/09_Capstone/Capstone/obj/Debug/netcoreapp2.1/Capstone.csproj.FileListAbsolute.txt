@@ -1,0 +1,4 @@
+C:\Users\JCregan\git\c-module-2-capstone-team-2\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\JCregan\git\c-module-2-capstone-team-2\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\JCregan\git\c-module-2-capstone-team-2\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\JCregan\git\c-module-2-capstone-team-2\09_Capstone\Capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
